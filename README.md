@@ -18,4 +18,9 @@ To perform Raman spectroscopy, you will need the following equipment:
 - A clean laboratory environment: Raman spectroscopy is sensitive to environmental factors, such as temperature, humidity, and atmospheric pressure, so it is important to perform the measurements in a clean, stable environment.
 
 
+## Ref
+- https://hackaday.io/project/18126-dav5-v301-raman-spectrometer
+- https://hackaday.com/tag/raman-spectrometer/
+
+
 
